@@ -45,5 +45,7 @@ plotly>=6,<7
 bqplot
 
 # openEO
-jupytergis
+jupytergis_lab==0.0.1
+jupytergis_core==0.0.1
+jupytergis_lite==0.0.1
 openeo
